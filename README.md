@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekakshjanweja&label=Profile%20views&color=0e75b6&style=flat" alt="ekakshjanweja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekakshjanweja" alt="ekakshjanweja" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ekaksh_janweja" target="blank"><img src="https://img.shields.io/twitter/follow/ekaksh_janweja?logo=twitter&style=for-the-badge" alt="ekaksh_janweja" /></a> </p>
 
 - 👨‍💻 More about me [https://stormej.me/#/](https://stormej.me/#/)
