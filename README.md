@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ekaksh_janweja" target="blank"><img src="https://img.shields.io/twitter/follow/ekaksh_janweja?logo=twitter&style=for-the-badge" alt="ekaksh_janweja" /></a> </p>
 
-- 🌱 I’m currently learning: **qwik**
+- 🌱 I’m currently learning: **typescript**
 
 - 👨‍💻 More about me: [https://stormej.me/#/](https://stormej.me/#/)
 
