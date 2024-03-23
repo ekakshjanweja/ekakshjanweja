@@ -50,9 +50,7 @@
 
 ###
 
-<img align="left" height="60" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhxOTZ1OGg2N250aXJlM2tiOXE2cmJqb3ZhanZqZjZ3cTlpcmZ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://twitter.com/ekaksh_janweja" target="_blank">
@@ -70,11 +68,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ekakshjanweja/ekakshjanweja/output/snake.svg" alt="Snake animation" />
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhxOTZ1OGg2N250aXJlM2tiOXE2cmJqb3ZhanZqZjZ3cTlpcmZ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/zwndo4jughxtn2a1y470m4e8o">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zwndo4jughxtn2a1y470m4e8o&count=5&unique=true" alt="Spotify recently played"  />
   </a>
