@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Hello, I'm Ekaksh Janweja aka stormej. I am in my pre-final year at DTU studying engineering. I like building things and lifting weights (maybe some casual valorant).<br><br>Find me here -> stormej.me</h4>
+<h4 align="left">Hello, I'm Ekaksh Janweja aka stormej. I am in my final year at DTU studying engineering. I like building things and lifting weights (maybe some casual valorant).<br><br>Find me here -> stormej.me</h4>
 
 ###
 
