@@ -14,7 +14,8 @@ jobs:
           fetch-depth: 0
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@v3
-        with: ${{secrets.USER_TOKEN}}
+        with:
+          token: ${{secrets.USER_TOKEN}}
       - name: Update README.md
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
