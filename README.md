@@ -1,6 +1,8 @@
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ekakshjanweja.ekakshjanweja&"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ekakshjanweja.ekakshjanweja&left_text=views"  />
+</div>
 
 ###
 
@@ -12,9 +14,15 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ekakshjanweja&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekakshjanweja&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+<p align="left">find me here -> https://www.stormej.me</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=ekakshjanweja&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekakshjanweja&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -28,9 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo"  />
 </div>
